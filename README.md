@@ -52,7 +52,7 @@ That said, if you have questions, reach out to us one way or another.
 The Calendar has the list of all the meetings in [product] community in a single location.
 
 # Adopters
-The User Case Studies website has real-world use cases of organizations across industries that are adopting Open source practices.
+The use case studies website has real-world use cases of organizations across industries that are adopting Open source practices.
 
 # Governance
 This project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
