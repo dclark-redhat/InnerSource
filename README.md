@@ -19,7 +19,8 @@ Take a free course on ...
 
 
 
-**To start developing **
+# To start developing
+
 
 The community repository hosts all information about building Kubernetes from source, how to contribute code and documentation, who to contact about what, etc.
 
@@ -37,23 +38,23 @@ cd kubernetes
 make quick-release
 For the full story, head over to the developer's documentation.
 
-**Support**
+# Support
 If you need support, start with the troubleshooting guide, and work your way through the process that we've outlined.
 
 That said, if you have questions, reach out to us one way or another.
 
-**Community Meetings**
+# Community Meetings
 The Calendar has the list of all the meetings in Kubernetes community in a single location.
 
-**Adopters**
+# Adopters
 The User Case Studies website has real-world use cases of organizations across industries that are deploying/migrating to Kubernetes.
 
-**Governance**
+# Governance
 Kubernetes project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
 
 The Kubernetes Community is the launching point for learning about how we organize ourselves.
 
 The Kubernetes Steering community repo is used by the Kubernetes Steering Committee, which oversees governance of the Kubernetes project.
 
-**Roadmap**
+# Roadmap
 The Kubernetes Enhancements repo provides information about Kubernetes releases, as well as feature tracking and backlogs.
