@@ -1,14 +1,14 @@
 # InnerSource
 
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6555/badge)](https://bestpractices.coreinfrastructure.org/projects/6555)
 
 
+This repo should be used as a template for OSS. This has been created to ensure the project aligns to OSS best practices. 
 
-Kubernetes, also known as K8s, is an open source system for managing containerized applications across multiple hosts. It provides basic mechanisms for deployment, maintenance, and scaling of applications.
+Red Hat have been leaders within OpenSource communities for over 20 years.....
 
-Kubernetes builds upon a decade and a half of experience at Google running production workloads at scale using a system called Borg, combined with best-of-breed ideas and practices from the community.
-
-Kubernetes is hosted by the Cloud Native Computing Foundation (CNCF). If your company wants to help shape the evolution of technologies that are container-packaged, dynamically scheduled, and microservices-oriented, consider joining the CNCF. For details about who's involved and how Kubernetes plays a role, read the CNCF announcement.
+More pre amble neeeeeeeeeded
 
 To start using 
 See our documentation 
@@ -22,19 +22,19 @@ Take a free course on ...
 # To start developing
 
 
-The community repository hosts all information about building Kubernetes from source, how to contribute code and documentation, who to contact about what, etc.
+The community repository hosts all information about building _productxyz_ from source, how to contribute code and documentation, who to contact about what, etc.
 
-If you want to build Kubernetes right away there are two options:
+If you want to build _productxyz_ right away there are two options:
 
 You have a working Go environment.
 mkdir -p $GOPATH/src/k8s.io
-cd $GOPATH/src/k8s.io
-git clone https://github.com/kubernetes/kubernetes
-cd kubernetes
+cd $GOPATH/src/_productxyz_
+git clone https://github.com/dclark-redhat/InnerSource
+cd InnerSource
 make
 You have a working Docker environment.
-git clone https://github.com/kubernetes/kubernetes
-cd kubernetes
+git clone https://github.com/dclark-redhat/InnerSource
+cd Innersource
 make quick-release
 For the full story, head over to the developer's documentation.
 
@@ -44,17 +44,17 @@ If you need support, start with the troubleshooting guide, and work your way thr
 That said, if you have questions, reach out to us one way or another.
 
 # Community Meetings
-The Calendar has the list of all the meetings in Kubernetes community in a single location.
+The Calendar has the list of all the meetings in [product] community in a single location.
 
 # Adopters
-The User Case Studies website has real-world use cases of organizations across industries that are deploying/migrating to Kubernetes.
+The User Case Studies website has real-world use cases of organizations across industries that are adopting Open source practices.
 
 # Governance
-Kubernetes project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
+This project is governed by a framework of principles, values, policies and processes to help our community and constituents towards our shared goals.
 
-The Kubernetes Community is the launching point for learning about how we organize ourselves.
+The Community is the launching point for learning about how we organize ourselves.
 
-The Kubernetes Steering community repo is used by the Kubernetes Steering Committee, which oversees governance of the Kubernetes project.
+The Steering community repo is used by the Inner Source Steering Committee, which oversees governance of the project.
 
 # Roadmap
-The Kubernetes Enhancements repo provides information about Kubernetes releases, as well as feature tracking and backlogs.
+The Enhancements repo provides information about releases, as well as feature tracking and backlogs.
