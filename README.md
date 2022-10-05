@@ -26,16 +26,21 @@ The community repository hosts all information about building _productxyz_ from 
 
 If you want to build _productxyz_ right away there are two options:
 
-You have a working Go environment.
+#### You have a working Go environment.
+```
 mkdir -p $GOPATH/src/k8s.io
-cd $GOPATH/src/_productxyz_
+cd $GOPATH/src/InnerSource
 git clone https://github.com/dclark-redhat/InnerSource
 cd InnerSource
 make
-You have a working Docker environment.
+```
+#### You have a working Docker environment.
+```
 git clone https://github.com/dclark-redhat/InnerSource
-cd Innersource
+cd InnerSource
 make quick-release
+```
+
 For the full story, head over to the developer's documentation.
 
 # Support
